@@ -11,7 +11,7 @@ In this simple project, I use for practice:
 * redux-thunk.
 
 ***
-React and Redux code of this app you can find by the [following URL](https://github.com/nick-mychka/simple_counter_on_react_redux_code). 
+The React and Redux code of this app you can find by the [following URL](https://github.com/nick-mychka/simple_counter_on_react_redux_code). 
 
 - - -
 Live demo: https://nick-mychka.github.io/simple_counter_on_react_redux/
