@@ -5,7 +5,10 @@
 This is a responsive Simple Counter on React(Redux) with a nice design and simple functionality.
 
 - - -
-This app I did to practice basic Redux with React. 
+This app I did to practice interaction of Redux with React.
+In this simple project, I use for practice:
+* redux-devtools;
+* redux-thunk.
 React and Redux code of this app you can find by the [following URL](https://github.com/nick-mychka/simple_counter_on_react_redux_code). 
 
 - - -
